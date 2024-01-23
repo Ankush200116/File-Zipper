@@ -23,4 +23,5 @@ File Zipper is a Python-based application that leverages Huffman coding for loss
 -> File Handling
 
 **Outcome:**
+
 The successfully completed File Zipper project exemplifies an efficient Huffman coding system, highlighting proficiency in algorithmic and programming skills. This experience deepened insights into compression techniques and their practical applications, solidifying expertise in data structures and algorithm design.
