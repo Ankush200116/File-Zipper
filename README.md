@@ -15,8 +15,11 @@ File Zipper is a Python-based application that leverages Huffman coding for loss
 **Technologies Used:**
 
 -> Python
+
 -> Data Structures (Priority Queue, Tree)
+
 -> Algorithms (Greedy Algorithm)
+
 -> File Handling
 
 **Outcome:**
